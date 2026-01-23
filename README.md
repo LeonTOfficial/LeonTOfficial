@@ -194,7 +194,7 @@ class Leon:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-LeonT111-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeonT111)
+[![GitHub](https://img.shields.io/badge/GitHub-LeonT%20Official-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeonTOfficial)
 ![Discord](https://img.shields.io/badge/Discord-LeonT111%230126-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ### 💬 Always open to:
