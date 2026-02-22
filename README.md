@@ -85,7 +85,7 @@ class Leon:
 <div align="center">
 
 <a href="https://github.com/LeonT111/Tetris">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonT111&repo=Tetris&theme=github_dark&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonTOfficial&repo=Tetris&theme=github_dark&hide_border=true&border_radius=10" />
 </a>
 
 ### 🎯 Tetris Game Engine
