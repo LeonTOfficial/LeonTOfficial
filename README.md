@@ -25,7 +25,7 @@ I'm a **16-year-old developer** from Baden-Württemberg, passionate about Python
 **What I'm about:**
 - 🐍 Learning Python and building practical projects
 - 🎮 Creating games and interactive experiences
-- 🤖 Understanding AI and its real-world applications
+- 🤖 Understanding AI and its applications
 - 🏆 Awarded **Landespreis Medienbildung** for explaining AI concepts
 - 🚀 Always looking for new challenges and learning opportunities
 
@@ -68,11 +68,11 @@ class Leon:
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 **Currently Exploring**
 
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
@@ -84,11 +84,11 @@ class Leon:
 
 <div align="center">
 
-<a href="https://github.com/LeonT111/Tetris">
+<a href="https://github.com/LeonTOfficial/Tetris">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonT111&repo=Tetris&theme=github_dark&hide_border=true&border_radius=10" />
 </a>
 
-### 🎯 Tetris Game Engine
+### Tetris Game Engine
 
 **Built with:** Python • Pygame  
 **Features:** Complete game mechanics • Smooth animations • Collision detection  
@@ -96,7 +96,7 @@ class Leon:
 
 <br>
 
-![Static Badge](https://img.shields.io/badge/🚀_More_Projects-Coming_Soon-orange?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/More_Projects-Coming_Soon-orange?style=for-the-badge)
 
 </div>
 
@@ -120,9 +120,9 @@ class Leon:
 
 | Topic | Description |
 |:---:|:---|
-| 🧠 **AI & Machine Learning** | Comprehensive explanations of how AI works |
-| 💬 **ChatGPT Technology** | Deep dive into the technology behind ChatGPT |
-| 🏢 **AI Innovation** | Exploring modern AI systems and their impact |
+| **AI & Machine Learning** | Comprehensive explanations of how AI works |
+| **ChatGPT Technology** | Deep dive into the technology behind ChatGPT |
+| **AI Innovation** | Exploring modern AI systems and their impact |
 
 </td>
 </tr>
@@ -138,22 +138,23 @@ class Leon:
 <tr>
 <td width="50%">
 
+
 ### 🔬 Learning Right Now
-- 🐍 Mastering Python fundamentals
-- 🎮 Building interactive projects with Pygame
-- 🧠 Exploring AI and ML concepts
-- ⚡ Writing clean, maintainable code
-- 🔍 Experimenting with small automation projects
+- Mastering Python fundamentals
+- Building interactive projects with Pygame
+- Exploring AI and ML concepts
+- Writing clean, maintainable code
+- Experimenting with small automation projects
 
 </td>
 <td width="50%">
 
 ### 🎯 Goals for 2026
-- 🏆 Handle complex Python projects confidently
-- 📚 Contribute to open-source projects
-- 🎓 Build and publish AI-powered tools
-- 💼 Create practical solutions with Python
-- 🤝 Collaborate on meaningful projects
+- Handle complex Python projects confidently
+- Contribute to open-source projects
+- Build and publish AI-powered tools
+- Create practical solutions with Python
+- Collaborate on meaningful projects
 
 </td>
 </tr>
@@ -166,23 +167,21 @@ class Leon:
 <div align="center">
 
 <details>
-<summary>✨ <strong>Click to learn more about my approach</strong></summary>
+<summary> <strong>Click to learn more about my approach</strong></summary>
 
 <br>
 
-**🧠 Curious Learner** → Always exploring new concepts and technologies
+**Curious Learner** — I'm always digging into new concepts, whether it's a Python library I haven't tried or an AI topic that caught my attention.
 
-**🎮 Creative Builder** → Enjoying the process of bringing ideas to life
+**Creative Builder** — Building things is what makes it click for me. Theory is fine, but actually making something work is the best feeling.
 
-**📚 Knowledge Seeker** → Constantly improving through practice and research
+**Knowledge Seeker** — I learn best by doing. Most of what I know came from breaking things and figuring out why.
 
-**🤖 Future-Focused** → Interested in how technology shapes tomorrow
+**Future-Focused** — AI and software are shaping how the world works. I want to understand that from the inside, not just watch it happen.
 
-**🌍 Community-Minded** → Sharing knowledge and learning from others
+**Problem Solver** — There's something satisfying about staring at a bug for an hour and finally cracking it.
 
-**🎯 Problem Solver** → Finding elegant solutions to challenging tasks
-
-**🚀 Growth-Driven** → Embracing challenges as opportunities to improve
+**Growth-Driven** — I'm 16 and still learning a lot. Every project teaches me something I didn't know before.
 
 </details>
 
@@ -198,7 +197,7 @@ class Leon:
 ![Discord](https://img.shields.io/badge/Discord-LeonT111%230126-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ### 💬 Always open to:
-**🔥 Interesting Projects** • **🎮 Game Development** • **📚 Learning Together** • **🤝 Collaborations**
+**Interesting Projects** • **Game Development** • **Learning Together** • **Collaborations**
 
 ---
 <div align="center">
@@ -210,7 +209,7 @@ class Leon:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LeonT111&style=for-the-badge&color=brightgreen&label=Visitors)
 
-*Last updated: 2026*
+*Last updated: 2026 / March*
 
 </div>
 
