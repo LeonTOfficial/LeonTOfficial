@@ -173,19 +173,19 @@ class Leon:
 
 ## 💫 What Drives Me
 
-** Curious Learner** — Always exploring new concepts and technologies
+**Curious Learner** — Always exploring new concepts and technologies
 
-** Creative Builder** — I enjoy the process of actually bringing ideas to life
+**Creative Builder** — I enjoy the process of actually bringing ideas to life
 
-** Knowledge Seeker** — Constantly improving through practice, not just theory
+**Knowledge Seeker** — Constantly improving through practice, not just theory
 
-** Future-Focused** — Interested in how technology is shaping what comes next
+**Future-Focused** — Interested in how technology is shaping what comes next
 
-** Community-Minded** — Sharing what I know and learning from others along the way
+**Community-Minded** — Sharing what I know and learning from others along the way
 
-** Problem Solver** — Finding clean solutions to problems that actually matter
+**Problem Solver** — Finding clean solutions to problems that actually matter
 
-** Growth-Driven** — Challenges are how you get better, so I don't shy away from them
+**Growth-Driven** — Challenges are how you get better, so I don't shy away from them
 
 </details>
 
