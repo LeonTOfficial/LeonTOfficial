@@ -171,17 +171,21 @@ class Leon:
 
 <br>
 
-**Curious Learner** — I'm always digging into new concepts, whether it's a Python library I haven't tried or an AI topic that caught my attention.
+## 💫 What Drives Me
 
-**Creative Builder** — Building things is what makes it click for me. Theory is fine, but actually making something work is the best feeling.
+** Curious Learner** — Always exploring new concepts and technologies
 
-**Knowledge Seeker** — I learn best by doing. Most of what I know came from breaking things and figuring out why.
+** Creative Builder** — I enjoy the process of actually bringing ideas to life
 
-**Future-Focused** — AI and software are shaping how the world works. I want to understand that from the inside, not just watch it happen.
+** Knowledge Seeker** — Constantly improving through practice, not just theory
 
-**Problem Solver** — There's something satisfying about staring at a bug for an hour and finally cracking it.
+** Future-Focused** — Interested in how technology is shaping what comes next
 
-**Growth-Driven** — I'm 16 and still learning a lot. Every project teaches me something I didn't know before.
+** Community-Minded** — Sharing what I know and learning from others along the way
+
+** Problem Solver** — Finding clean solutions to problems that actually matter
+
+** Growth-Driven** — Challenges are how you get better, so I don't shy away from them
 
 </details>
 
