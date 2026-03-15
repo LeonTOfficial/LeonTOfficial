@@ -83,16 +83,15 @@ class Leon:
 ## 🎮 Featured Project
 
 <div align="center">
-
-<a href="https://github.com/LeonTOfficial/Tetris">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonTOfficial&repo=Tetris&theme=github_dark&hide_border=true&border_radius=10" />
+<a href="https://github.com/LeonTOfficial/Entscheidungsspiel">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonTOfficial&repo=Entscheidungsspiel&theme=github_dark&hide_border=true&border_radius=10" />
 </a>
 
-### Tetris Game Engine
-
-**Built with:** Python • Pygame  
-**Features:** Complete game mechanics • Smooth animations • Collision detection  
-**Status:** ✅ Complete & Playable
+### ⚔️ Entscheidungsspiel – Text RPG
+**Built with:** Python  
+**Features:** Inventory system • Lives mechanic • Weapon choice • Boss fight  
+**Status:** ✅ v2.1 — Playable & actively developed  
+**Note:** *Personal project to apply and showcase Python fundamentals.*
 
 <br>
 
@@ -134,6 +133,7 @@ class Leon:
 
 ## 🚀 Current Focus & Goals
 
+<div align="center">
 <table>
 <tr>
 <td width="50%">
@@ -159,6 +159,7 @@ class Leon:
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
