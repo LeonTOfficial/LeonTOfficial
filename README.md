@@ -1,51 +1,48 @@
+<!-- profile readme · LeonTOfficial -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Leon&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Python%20Developer&descAlignY=52&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=190&section=header&text=Leon&fontSize=82&fontAlignY=34&animation=fadeIn&fontColor=ffffff&desc=Python%20Developer%20%E2%80%A2%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%" />
 
-### Python Developer • AI Enthusiast • 16 Years Old
+### Python Developer • AI Enthusiast • 16
 
-[![](https://img.shields.io/badge/🌍_Baden--Württemberg-Germany-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/Baden-W%C3%BCrttemberg)
-[![](https://img.shields.io/badge/🎯_Focus-AI_&_Python-orange?style=for-the-badge)](#)
-[![](https://img.shields.io/badge/🏆_Award-Landespreis_Medienbildung-gold?style=for-the-badge)](#)
+[![Location](https://img.shields.io/badge/🌍_Baden--Württemberg-Germany-2b6cb0?style=for-the-badge)](https://en.wikipedia.org/wiki/Baden-W%C3%BCrttemberg)
+[![Focus](https://img.shields.io/badge/🎯_Focus-AI_%26_Python-f59e0b?style=for-the-badge)](#)
+[![Award](https://img.shields.io/badge/🏆_Award-Landespreis_Medienbildung_2025-d4af37?style=for-the-badge)](#)
+
+<br/>
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 🎯 About me
 
 <table>
 <tr>
-<td width="55%">
+<td width="58%">
 
-**Hey! I'm Leon** 👋
+**Hey, I’m Leon.**  
+I’m **16**, based in **Baden-Württemberg (Germany)**, and I mainly build with **Python**.
 
-I'm a **16-year-old developer** from Baden-Württemberg, passionate about Python and exploring the world of artificial intelligence.
+What I enjoy most is learning fundamentals properly — then turning them into something **playable** and **real**.
 
-**What I'm about:**
-- 🐍 Learning Python and building practical projects
-- 🎮 Creating games and interactive experiences
-- 🤖 Understanding AI and its applications
-- 🏆 Awarded **Landespreis Medienbildung** for explaining AI concepts
-- 🚀 Always looking for new challenges and learning opportunities
+**Right now I’m into:**
+- 🐍 Python projects that teach me clean code & problem solving
+- 🎮 Small games / interactive experiences (Pygame)
+- 🤖 AI — not as a buzzword, but understanding how it works and explaining it clearly
 
 </td>
-<td width="45%">
+<td width="42%">
 
 ```python
 class Leon:
-    def __init__(self):
-        self.age = 16
-        self.location = "Baden-Württemberg, DE"
-        self.languages = ["Python"]
-        self.interests = [
-            "AI", 
-            "Game Development",
-            "Problem Solving"
-        ]
-        self.goal = "Build meaningful things"
-    
-    def current_status(self):
+    age = 16
+    location = "Baden-Württemberg, DE"
+    languages = ["Python"]
+    interests = ["AI", "Game Dev", "Problem Solving"]
+
+    def current_status(self) -> str:
         return "Learning & building daily"
 ```
 
@@ -55,24 +52,24 @@ class Leon:
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech stack
 
 <div align="center">
 
-**Languages & Frameworks**
+**Main**
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=1f2937)
 ![Pygame](https://img.shields.io/badge/Pygame-32CD32?style=for-the-badge&logo=python&logoColor=white)
 
-**Development Tools**
+**Tools**
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-**Currently Exploring**
+**Exploring**
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
@@ -80,22 +77,18 @@ class Leon:
 
 ---
 
-## 🎮 Featured Project
+## 🎮 Featured project
 
 <div align="center">
+
 <a href="https://github.com/LeonTOfficial/Entscheidungsspiel">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonTOfficial&repo=Entscheidungsspiel&theme=github_dark&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonTOfficial&repo=Entscheidungsspiel&theme=github_dark&hide_border=true&border_radius=12" alt="Entscheidungsspiel repo card" />
 </a>
 
-### ⚔️ Entscheidungsspiel – Text RPG
+### ⚔️ Entscheidungsspiel — Text RPG
 **Built with:** Python  
-**Features:** Inventory system • Lives mechanic • Weapon choice • Boss fight  
-**Status:** ✅ v2.1 — Playable & actively developed  
-**Note:** *Personal project to apply and showcase Python fundamentals.*
-
-<br>
-
-![Static Badge](https://img.shields.io/badge/More_Projects-Coming_Soon-orange?style=for-the-badge)
+**Highlights:** inventory • lives mechanic • weapon choices • boss fight  
+**Status:** ✅ **v2.1** — playable & actively improved
 
 </div>
 
@@ -105,56 +98,36 @@ class Leon:
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
-
 ### 🎖️ Landespreis Medienbildung 2025
 
-![Award](https://img.shields.io/badge/Award-Landespreis_Medienbildung-gold?style=for-the-badge)
+![Award](https://img.shields.io/badge/Award-Landespreis_Medienbildung_2025-d4af37?style=for-the-badge)
 
-**Awarded for creating educational content about artificial intelligence**
-
-<br>
-
-| Topic | Description |
-|:---:|:---|
-| **AI & Machine Learning** | Comprehensive explanations of how AI works |
-| **ChatGPT Technology** | Deep dive into the technology behind ChatGPT |
-| **AI Innovation** | Exploring modern AI systems and their impact |
-
-</td>
-</tr>
-</table>
+I received the **Landespreis Medienbildung** for creating educational content that makes AI easier to understand — what ML is at a high level, what’s behind systems like ChatGPT, and why it matters outside the tech bubble.
 
 </div>
 
 ---
 
-## 🚀 Current Focus & Goals
+## 🚀 Current focus & goals
 
 <div align="center">
 <table>
 <tr>
 <td width="50%">
 
-
-### 🔬 Learning Right Now
-- Mastering Python fundamentals
-- Building interactive projects with Pygame
-- Exploring AI and ML concepts
-- Writing clean, maintainable code
-- Experimenting with small automation projects
+### Learning now
+- strengthening Python fundamentals
+- building projects with Pygame
+- exploring AI / ML concepts
+- writing clean, readable code
 
 </td>
 <td width="50%">
 
-### 🎯 Goals for 2026
-- Handle complex Python projects confidently
-- Contribute to open-source projects
-- Build and publish AI-powered tools
-- Create practical solutions with Python
-- Collaborate on meaningful projects
+### Goals for 2026
+- handle larger Python projects confidently
+- make a **real** open-source contribution (small still counts)
+- build 1–2 projects that are easy to demo (not just “works on my machine”)
 
 </td>
 </tr>
@@ -163,59 +136,21 @@ class Leon:
 
 ---
 
-## 💫 What Drives Me
+## 📬 Let’s connect
 
 <div align="center">
 
-<details>
-<summary> <strong>Click to learn more about my approach</strong></summary>
-
-<br>
-
-## 💫 What Drives Me
-
-**Curious Learner** — Always exploring new concepts and technologies
-
-**Creative Builder** — I enjoy the process of actually bringing ideas to life
-
-**Knowledge Seeker** — Constantly improving through practice, not just theory
-
-**Future-Focused** — Interested in how technology is shaping what comes next
-
-**Community-Minded** — Sharing what I know and learning from others along the way
-
-**Problem Solver** — Finding clean solutions to problems that actually matter
-
-**Growth-Driven** — Challenges are how you get better, so I don't shy away from them
-
-</details>
-
-</div>
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-LeonT%20Official-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeonTOfficial)
+[![GitHub](https://img.shields.io/badge/GitHub-@LeonTOfficial-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeonTOfficial)
 ![Discord](https://img.shields.io/badge/Discord-LeonT111%230126-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
-### 💬 Always open to:
-**Interesting Projects** • **Game Development** • **Learning Together** • **Collaborations**
+**Open to:** interesting projects • game dev • learning together • collaborations
 
----
-<div align="center">
+<br/>
 
+![Profile views](https://komarev.com/ghpvc/?username=LeonTOfficial&style=for-the-badge&color=brightgreen&label=Visitors)
 
-
-**💡 "Learning by building, one project at a time"**
-### 🎊 Thanks for visiting my profile!
-
-![Profile Views](https://komarev.com/ghpvc/?username=LeonT111&style=for-the-badge&color=brightgreen&label=Visitors)
-
-*Last updated: 2026 / March*
+*Last updated: May 2026*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=110&section=footer" width="100%" />
