@@ -82,7 +82,7 @@ class Leon:
 <div align="center">
 
 <a href="https://github.com/LeonTOfficial/Entscheidungsspiel">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonTOfficial&repo=Entscheidungsspiel&theme=github_dark&hide_border=true&border_radius=12" alt="Entscheidungsspiel repo card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonTOfficial&repo=Entscheidungsspiel&theme=github_dark&hide_border=true&border_radius=12&cache_seconds=86400" alt="Entscheidungsspiel repo card" />
 </a>
 
 
