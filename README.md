@@ -82,14 +82,8 @@ class Leon:
 <div align="center">
 
 <a href="https://github.com/LeonTOfficial/Entscheidungsspiel">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonTOfficial&repo=Entscheidungsspiel&theme=github_dark&hide_border=true&border_radius=12&cache_seconds=1800" alt="Entscheidungsspiel repo card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonTOfficial&repo=Entscheidungsspiel&theme=github_dark&hide_border=true&border_radius=12" alt="Entscheidungsspiel repo card" />
 </a>
-
-<br/><br/>
-
-[![Repo](https://img.shields.io/badge/📁_Repo-Entscheidungsspiel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeonTOfficial/Entscheidungsspiel)
-[![Language](https://img.shields.io/github/languages/top/LeonTOfficial/Entscheidungsspiel?style=for-the-badge&color=FFD43B&logo=python&logoColor=1f2937)](https://github.com/LeonTOfficial/Entscheidungsspiel)
-[![Stars](https://img.shields.io/github/stars/LeonTOfficial/Entscheidungsspiel?style=for-the-badge&color=f59e0b)](https://github.com/LeonTOfficial/Entscheidungsspiel/stargazers)
 
 
 ### ⚔️ Entscheidungsspiel — Text RPG
