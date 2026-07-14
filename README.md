@@ -77,19 +77,21 @@ class Leon:
 
 ---
 
-## 🎮 Featured project
+## 🔋 Featured project
 
 <div align="center">
 
-<a href="https://github.com/LeonTOfficial/Entscheidungsspiel">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonTOfficial&repo=Entscheidungsspiel&theme=github_dark&hide_border=true&border_radius=12&cache_seconds=86400" alt="Entscheidungsspiel repo card" />
+<a href="https://github.com/LeonTOfficial/BatteryPanic">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonTOfficial&repo=BatteryPanic&theme=github_dark&hide_border=true&border_radius=12&cache_seconds=86400" alt="Battery Panic repo card" />
 </a>
 
 
-### ⚔️ Entscheidungsspiel — Text RPG
-**Built with:** Python  
-**Highlights:** inventory • lives mechanic • weapon choices • boss fight  
-**Status:** ✅ **v2.1** — playable & actively improved
+### 🔋 Battery Panic — macOS Battery Alerts
+**Built with:** Swift • AppKit • Sparkle  
+**Highlights:** pulsing red overlay • charging reminder • critical 2% mode • sound alerts • automatic updates  
+**Status:** ✅ **public macOS release** — free, open-source & actively improved
+
+[Website](https://leontofficial.github.io/BatteryPanic/) • [Download](https://leontofficial.github.io/BatteryPanic/download/) • [GitHub](https://github.com/LeonTOfficial/BatteryPanic)
 
 </div>
 
