@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=190&section=header&text=Leon&fontSize=82&fontAlignY=34&animation=fadeIn&fontColor=ffffff&desc=Python%20Developer%20%E2%80%A2%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%" />
 
-### Python Developer • AI Enthusiast • 16
+### Python Developer • AI Enthusiast • 17
 
 [![Location](https://img.shields.io/badge/🌍_Baden--Württemberg-Germany-2b6cb0?style=for-the-badge)](https://en.wikipedia.org/wiki/Baden-W%C3%BCrttemberg)
 [![Focus](https://img.shields.io/badge/🎯_Focus-AI_%26_Python-f59e0b?style=for-the-badge)](#)
@@ -23,7 +23,7 @@
 <td width="58%">
 
 **Hey, I’m Leon.**  
-I’m **16**, based in **Baden-Württemberg (Germany)**, and I mainly build with **Python**.
+I’m **17**, based in **Baden-Württemberg (Germany)**, and I mainly build with **Python**.
 
 What I enjoy most is learning fundamentals properly — then turning them into something **playable** and **real**.
 
@@ -37,7 +37,7 @@ What I enjoy most is learning fundamentals properly — then turning them into s
 
 ```python
 class Leon:
-    age = 16
+    age = 17
     location = "Baden-Württemberg, DE"
     languages = ["Python"]
     interests = ["AI", "Game Dev", "Problem Solving"]
